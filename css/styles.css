@@ -60,3 +60,16 @@ html {
 .frase-container p {
 	font-style: italic;
 }
+
+/* Curiosidades */
+
+.curiosidades-container {
+	padding: 25px 0;
+	margin: 25px 0;
+	border-top: 1px dashed #DDD;
+	border-bottom: 1px dashed #DDD;
+}
+
+.curiosidades-container li {
+	height: 30px;
+}
