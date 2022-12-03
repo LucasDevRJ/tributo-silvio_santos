@@ -12,3 +12,21 @@ html {
 	margin: 50px;
 	background-color: #FFF;
 }
+
+.destaque {
+	font-weight: bold;
+}
+
+/* Cabeçalho */
+
+.cabecalho {
+	text-align: center;
+}
+
+.titulo-principal {
+	font-size: 40px;
+}
+
+.paragrafo-principal {
+	font-style: italic;
+}
