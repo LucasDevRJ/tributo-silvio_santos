@@ -1,0 +1,14 @@
+html {
+	font-family: Helvetica;
+	background: #DDD;
+}
+
+.container {
+	max-width: 1200px;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px 50px;
+	margin: 50px;
+	background-color: #FFF;
+}
