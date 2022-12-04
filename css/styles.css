@@ -76,6 +76,8 @@ html {
 	border-bottom: 1px dashed #DDD;
 }
 
-.curiosidades-container li {
-	height: 30px;
+@media screen and (min-width: 1000px) {
+	.curiosidades-container li {
+		height: 30px;
+	}
 }
