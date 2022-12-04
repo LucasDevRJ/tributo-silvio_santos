@@ -37,6 +37,12 @@ html {
 	margin-top: 30px;
 }
 
+@media screen and (min-width: 200px) {
+	.img-destaque img {
+		width: 100%;
+	}
+}
+
 /* Biografia container */
 .biografia-container {
 	padding: 25px 0;
